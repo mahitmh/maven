@@ -1,0 +1,101 @@
+
+My name is Mahesh I have 4 years of experience as a DevOps engineer
+GitHub:-
+----------
+coming to my roles and responsibilities
+we are using GitHub for version control where developers store their code.
+I used to manage the organization
+ - create/giving to permission to a new organization
+ - Manage the repositories like
+	-create repo
+	-create teams	
+	-Manage the permission
+ -GitHub User Management, Such as like
+	-Suspended
+	-Unsuspended
+	-delate Users
+
+Jenkins:-
+----------
+we are using Jenkins for continuous integration, continuous deployment
+
+- I used to work on new nodes are configurations for user requirements
+- Install upgrade and downgrade of plugins
+- I used the new groups and added users for a particular project
+- Tools Integration with Jenkins and troubleshooting any issues
+- I worked on Jenkins installation and configuration in a new environment
+- I used to work on new jobs implementations like freestyle and pipeline
+- I Worked on Jenkins Administration
+
+Ansible:-
+--------------
+coming to configuration Manageent we are using Ansible
+- I good knowledge on installing and configraing the ansible
+- I used to new nodes on ansible master and troubleshooting connectivty issues
+  between master and slave machines
+- I am good at writing the playbooks.we have plenty of modules right, so we
+  used to use that module for information
+
+- Bascially we are ansible for software upgrade,network changes, pakages installation
+  checking the services status
+
+Terraform 
+---------------
+- we are using terraform as a infrastrature provising like bulid the new setup and perform any changes
+  on servers safely.
+- we are using terraform to step DR Eniverment in my current project it's ongoing
+- we collected existing production eniverment configuration and details and creating DR step using Terraform
+- we use to do the upgradein test eniverment using terraform and installing the packages
+- I use to understand the existing step terraform templates
+- I have installing and configrating the my enveriment and troubleshooting connectivety issues between
+  cloud providers to terraform
+- actually I was crated POC for this terraform in my project
+- currently we are using terraform for step the DR in my project
+- once it's completed we are planning to create same step which we have in different region
+
+Docker
+--------------
+- Knolwdege in enivernment setup using docker
+- sucessfully created developement,testing and production eniverments using docker compose 
+- good exposer in creating customized docker images based on oragansation requrement using docker file
+- Experiance in performing container oracation through swaram and kuberenetes
+- perforemed activites like load balancing, auto scalling,handling failuer senicereo etc. using docker containers
+- knolwdege in setting up docker private registary for storing customized images
+
+Linux
+---------------
+- coming linux activites,
+- I used to work on process and services Management like process services status,start.stop and restart services
+- I good at user management like adding users,delate users, intially i work done on linux and aws
+- I workdone file and dirctory Management like creating,delating files/directiores and changing permissions file/dir
+- I used to install packages or tools using RPM and YUM
+- I used to take backup file/directories using tar,zip,cp,scp
+- I use to work on checking the performance server using
+  Top-all,Sar-CPU,Vmstat-memory,free -h memory swap
+- actually, i workdone parations ,LVM related activites, But i am not getting chance to work ,
+  if i get chance,i will relocate work on it
+
+SonarQube
+-----------
+- Sonar (now called SonarQube) is an open source platform used by development teams to manage source code quality. 
+  Sonar has been developed with a main objective in mind: make code quality management accessible to everyone with minimal effort
+- Sonar enables to cover quality on 7 axes and so to report on:
+    Duplicated code
+    Coding standards
+    Unit tests
+    Complex code
+    Potential bugs
+    Comments
+    Design and architecture
+JForag Artifactory
+----------------------
+
+JFrog Artifactory is designed to integrate with the majority of continuous integration and delivery tools, so as to provide an end to end automated solution 
+for tracking artifacts from development to production. JFrog Artifactory is intended for use both by developers and DevOps teams as a whole.
+Why do we need JFrog Artifactory?
+-----------------------------------
+Full integration with your build ecosystem
+These systems use Artifactory to supply artifacts and resolve dependencies when creating the build, and also as a target to deploy build output 
+to the corresponding local repository. One of the main benefits of running builds through Artifactory is fully reproducible builds.
+
+
